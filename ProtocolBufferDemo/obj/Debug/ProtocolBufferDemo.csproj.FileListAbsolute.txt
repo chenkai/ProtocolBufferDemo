@@ -1,0 +1,9 @@
+c:\users\kai.chen\documents\visual studio 2012\Projects\ProtocolBufferDemo\ProtocolBufferDemo\bin\Debug\ProtocolBufferDemo.exe.config
+c:\users\kai.chen\documents\visual studio 2012\Projects\ProtocolBufferDemo\ProtocolBufferDemo\bin\Debug\ProtocolBufferDemo.exe
+c:\users\kai.chen\documents\visual studio 2012\Projects\ProtocolBufferDemo\ProtocolBufferDemo\bin\Debug\ProtocolBufferDemo.pdb
+c:\users\kai.chen\documents\visual studio 2012\Projects\ProtocolBufferDemo\ProtocolBufferDemo\bin\Debug\protobuf-net.dll
+c:\users\kai.chen\documents\visual studio 2012\Projects\ProtocolBufferDemo\ProtocolBufferDemo\bin\Debug\protobuf-net.pdb
+c:\users\kai.chen\documents\visual studio 2012\Projects\ProtocolBufferDemo\ProtocolBufferDemo\bin\Debug\protobuf-net.xml
+c:\users\kai.chen\documents\visual studio 2012\Projects\ProtocolBufferDemo\ProtocolBufferDemo\obj\Debug\ProtocolBufferDemo.csprojResolveAssemblyReference.cache
+c:\users\kai.chen\documents\visual studio 2012\Projects\ProtocolBufferDemo\ProtocolBufferDemo\obj\Debug\ProtocolBufferDemo.exe
+c:\users\kai.chen\documents\visual studio 2012\Projects\ProtocolBufferDemo\ProtocolBufferDemo\obj\Debug\ProtocolBufferDemo.pdb
