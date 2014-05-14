@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using ProtocolBufferDemo.EntityModel;
 using ProtoBuf.Serializers;
 using ProtoBuf;
+using System.Threading;
 
 namespace ProtocolBufferDemo
 {
@@ -43,6 +44,7 @@ namespace ProtocolBufferDemo
             Console.WriteLine("Read Persion Object Success...");
             if (readPersion != null)
                 Console.WriteLine("Customer Name:" + readPersion.Name + "\nCustomer Id:" + readPersion.Id+"\nCustomer Address:"+readPersion.Address.Line1+" "+readPersion.Address.Line2);
+
         }
     }
 }

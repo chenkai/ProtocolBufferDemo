@@ -3,16 +3,44 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtocolBufferDemo", "ProtocolBufferDemo\ProtocolBufferDemo.csproj", "{BB15246C-D084-4285-A7B3-EE4D98281622}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneVersionDemo", "PhoneVersionDemo\PhoneVersionDemo.csproj", "{F755194D-70FA-4485-BB18-D8759108BC04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{BB15246C-D084-4285-A7B3-EE4D98281622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BB15246C-D084-4285-A7B3-EE4D98281622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB15246C-D084-4285-A7B3-EE4D98281622}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{BB15246C-D084-4285-A7B3-EE4D98281622}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{BB15246C-D084-4285-A7B3-EE4D98281622}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB15246C-D084-4285-A7B3-EE4D98281622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB15246C-D084-4285-A7B3-EE4D98281622}.Release|ARM.ActiveCfg = Release|Any CPU
+		{BB15246C-D084-4285-A7B3-EE4D98281622}.Release|x86.ActiveCfg = Release|Any CPU
+		{F755194D-70FA-4485-BB18-D8759108BC04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F755194D-70FA-4485-BB18-D8759108BC04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F755194D-70FA-4485-BB18-D8759108BC04}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F755194D-70FA-4485-BB18-D8759108BC04}.Debug|ARM.ActiveCfg = Debug|ARM
+		{F755194D-70FA-4485-BB18-D8759108BC04}.Debug|ARM.Build.0 = Debug|ARM
+		{F755194D-70FA-4485-BB18-D8759108BC04}.Debug|ARM.Deploy.0 = Debug|ARM
+		{F755194D-70FA-4485-BB18-D8759108BC04}.Debug|x86.ActiveCfg = Debug|x86
+		{F755194D-70FA-4485-BB18-D8759108BC04}.Debug|x86.Build.0 = Debug|x86
+		{F755194D-70FA-4485-BB18-D8759108BC04}.Debug|x86.Deploy.0 = Debug|x86
+		{F755194D-70FA-4485-BB18-D8759108BC04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F755194D-70FA-4485-BB18-D8759108BC04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F755194D-70FA-4485-BB18-D8759108BC04}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F755194D-70FA-4485-BB18-D8759108BC04}.Release|ARM.ActiveCfg = Release|ARM
+		{F755194D-70FA-4485-BB18-D8759108BC04}.Release|ARM.Build.0 = Release|ARM
+		{F755194D-70FA-4485-BB18-D8759108BC04}.Release|ARM.Deploy.0 = Release|ARM
+		{F755194D-70FA-4485-BB18-D8759108BC04}.Release|x86.ActiveCfg = Release|x86
+		{F755194D-70FA-4485-BB18-D8759108BC04}.Release|x86.Build.0 = Release|x86
+		{F755194D-70FA-4485-BB18-D8759108BC04}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
